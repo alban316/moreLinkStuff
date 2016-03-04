@@ -1,0 +1,6 @@
+C:\Users\jbrugger\repo\moreLinqStuff\moreLinqStuff\bin\Debug\moreLinqStuff.exe.config
+C:\Users\jbrugger\repo\moreLinqStuff\moreLinqStuff\bin\Debug\moreLinqStuff.exe
+C:\Users\jbrugger\repo\moreLinqStuff\moreLinqStuff\bin\Debug\moreLinqStuff.pdb
+C:\Users\jbrugger\repo\moreLinqStuff\moreLinqStuff\obj\Debug\moreLinqStuff.csprojResolveAssemblyReference.cache
+C:\Users\jbrugger\repo\moreLinqStuff\moreLinqStuff\obj\Debug\moreLinqStuff.exe
+C:\Users\jbrugger\repo\moreLinqStuff\moreLinqStuff\obj\Debug\moreLinqStuff.pdb
